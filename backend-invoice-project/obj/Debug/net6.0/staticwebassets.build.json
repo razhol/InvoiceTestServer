@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nLwVGOciVKBPROnvynlQlM4Kthwqyy3+SB1Jd9GzoLs=",
+  "Source": "backend-invoice-project",
+  "BasePath": "_content/backend-invoice-project",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
